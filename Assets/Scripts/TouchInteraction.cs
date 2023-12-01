@@ -27,6 +27,6 @@ public class TouchInteraction : MonoBehaviour
     private void ChangeScene()
     {
         // Cambia al nombre de la escena que deseas cargar
-        SceneManager.LoadScene("Mapas");
+        SceneManager.LoadScene("Prueba");
     }
 }

@@ -2255,7 +2255,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arPlaneManager: {fileID: 1834436646}
-  prefab: {fileID: 3675536055987933956, guid: a36808efda29a3449b40c222e1ccfb6d, type: 3}
+  prefab: {fileID: 4429262516392591645, guid: 52ce9a00a0b80de4cb234016a2ce1c7b, type: 3}
 --- !u!114 &1834436648
 MonoBehaviour:
   m_ObjectHideFlags: 0

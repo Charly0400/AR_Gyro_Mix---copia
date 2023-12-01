@@ -24,13 +24,17 @@ public class CambioEscena : MonoBehaviour
 
     public void ReturnToScene()
     {
-        // Obtén el índice de la escena actual
+        /*/ Obtén el índice de la escena actual
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
 
         // Si hay al menos dos escenas, carga la escena anterior
         if (currentSceneIndex >= 1)
         {
             SceneManager.LoadScene(currentSceneIndex - 1);
-        }
+        }*/
+       
+            // Cambia al nombre de la escena que deseas cargar
+      SceneManager.LoadScene("Prueba");
+        
     }
 }
