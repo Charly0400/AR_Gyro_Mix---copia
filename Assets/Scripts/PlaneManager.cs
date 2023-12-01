@@ -43,6 +43,7 @@ public class PlaneManager : MonoBehaviour
         }
     }
 
+
     private void CreatePrefab(ARPlane plane)
     {
         float yOffset = plane.transform.localScale.y / 2f + 0.1f;
